@@ -115,3 +115,16 @@ font-size: 4rem;
     font-family: 'Montserrat', sans-serif;
     color:black;
 }
+
+.link:hover{
+color:lightgrey;
+}
+.link:focus{
+    color:darkgrey;
+}
+.nav-tabs:hover{
+    color:lightgrey;
+}
+.nav-tabs:focus{
+    color:darkgrey;
+}
